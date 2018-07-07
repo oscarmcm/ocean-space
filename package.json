@@ -1,0 +1,40 @@
+{
+    "name": "ocean-space",
+    "displayName": "Ocean Space",
+    "description": "Deep dark theme with a taste of the space",
+    "version": "1.0.0",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#23262E",
+        "theme": "dark"
+    },
+    "publisher": "oscarmcm",
+    "author": {
+        "name": "Oscar Cortez",
+        "url": "https://github.com/oscarmcm",
+        "email": "om.cortez.2010@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/oscarmcm/ocean-space"
+    },
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ocean Space",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OceanSpace-color-theme.json"
+            },
+            {
+                "label": "Ocean Space Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OceanSpace-italic-color-theme.json"
+            }
+        ]
+    }
+}
