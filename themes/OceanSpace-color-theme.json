@@ -1,10 +1,10 @@
 {
-    "name": "Andromeda",
+    "name": "Ocean Space",
     "type": "dark",
     "colors": {
-        "focusBorder": "#00e8c5b9",
+        "focusBorder": "#0B0D14",
         "foreground": "#D5CED9",
-        "widget.shadow": "#2e333f",
+        "widget.shadow": "#0B0D14",
         "selection.background": "#746f77",
         "errorForeground": "#FC644D",
 
@@ -24,10 +24,10 @@
         "inputValidation.warningBackground": "#DE9237",
         "inputValidation.warningBorder": "#DE9237",
 
-        "scrollbar.shadow": "#0F111A",
-        "scrollbarSlider.activeBackground": "#746f77CC",
-        "scrollbarSlider.background": "#746f7777",
-        "scrollbarSlider.hoverBackground": "#746f77AA",
+        "scrollbar.shadow": "#0B0D14",
+        "scrollbarSlider.background": "#0B0D14",
+        "scrollbarSlider.activeBackground": "#131622",
+        "scrollbarSlider.hoverBackground": "#131622",
 
         "badge.background": "#00b0ff",
 
@@ -37,7 +37,7 @@
         "list.activeSelectionForeground": "#00e8c6",
         "list.dropBackground": "#3a404e",
         "list.focusBackground": "#282b35",
-        "list.focusForeground": "#00e8c5b9",
+        "list.focusForeground": "#ffffff",
         "list.hoverBackground": "#3a404e",
         "list.hoverForeground": "#eee",
         "list.inactiveSelectionBackground": "#0F111A",
@@ -47,10 +47,11 @@
         "activityBar.dropBackground": "#3a404e",
         "activityBar.foreground": "#BAAFC0",
         "activityBarBadge.background": "#00b0ff",
+        "activityBar.border": "#0F111A",
 
         "sideBar.background": "#0F111A",
         "sideBarSectionHeader.background": "#0F111A",
-        "sideBarTitle.foreground": "#00e8c6",
+        "sideBarTitle.foreground": "#ffffff",
         "sideBar.foreground": "#746f77",
 
 
@@ -58,15 +59,15 @@
         "editorGroup.dropBackground": "#495061d7",
         "editorGroupHeader.tabsBackground": "#0F111A",
         "tab.activeBackground": "#0F111A",
-        "tab.inactiveBackground": "#0F111A",
-        "tab.activeForeground": "#00e8c6",
-        "tab.inactiveForeground": "#746f77",
+        "tab.inactiveBackground": "#0B0D14",
+        "tab.activeForeground": "#FFFFFF",
+        "tab.inactiveForeground": "#8F93A2",
 
-
-
+        "contrastBorder": "#0B0D14",
 
         "editor.background": "#0F111A",
         "editor.foreground": "#D5CED9",
+        "editorLineNumber.activeForeground": "#ffffff",
         "editorLineNumber.foreground": "#746f77",
         "editorCursor.foreground": "#FFF",
         "editor.selectionBackground": "#303541",
@@ -86,7 +87,7 @@
         "editorCodeLens.foreground": "#746f77",
         "editorBracketMatch.background": "#746f77",
         "editorBracketMatch.border": "#746f77",
-        "editorOverviewRuler.border": "#4F4355",
+        "editorOverviewRuler.border": "#0F111A",
         "editorError.foreground": "#FC644D",
         "editorWarning.foreground": "#FF9F2E",
         "editorGutter.modifiedBackground": "#3B79C7BB",
@@ -120,6 +121,7 @@
         "merge.incomingContentBackground": "#3B79C740",
 
         "panel.background": "#0F111A",
+        "panel.border": "#0B0D14",
         "panelTitle.activeBorder": "#0F111A",
         "panelTitle.inactiveForeground": "#746f77",
 
