@@ -52,7 +52,7 @@
         "sideBar.background": "#0F111A",
         "sideBarSectionHeader.background": "#0F111A",
         "sideBarTitle.foreground": "#ffffff",
-        "sideBar.foreground": "#746f77",
+        "sideBar.foreground": "#F3EFE0",
 
 
         "editorGroup.background": "#0F111A",
@@ -97,12 +97,12 @@
         "diffEditor.insertedTextBackground": "#A5F69C20",
         "diffEditor.removedTextBackground": "#FC644D20",
 
-        "editorWidget.background": "#20232A",
-        "editorSuggestWidget.background": "#20232A",
-        "editorSuggestWidget.border": "#372F3C",
+        "editorWidget.background": "#131622",
+        "editorSuggestWidget.background": "#131622",
+        "editorSuggestWidget.border": "#0B0D14",
         "editorSuggestWidget.selectedBackground": "#373941",
-        "editorHoverWidget.background": "#373941",
-        "editorHoverWidget.border": "#00e8c5cc",
+        "editorHoverWidget.background": "#131622",
+        "editorHoverWidget.border": "#0B0D14",
         "debugExceptionWidget.background": "#FF9F2E60",
         "debugExceptionWidget.border": "#FF9F2E60",
 
