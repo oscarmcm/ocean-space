@@ -34,7 +34,7 @@
         "progressBar.background": "#C668BA",
 
         "list.activeSelectionBackground": "#0F111A",
-        "list.activeSelectionForeground": "#00e8c6",
+        "list.activeSelectionForeground": "#F3EFE0",
         "list.dropBackground": "#3a404e",
         "list.focusBackground": "#282b35",
         "list.focusForeground": "#ffffff",
@@ -77,8 +77,8 @@
         "editor.findMatchBackground": "#f39d12d7",
         "editor.findMatchHighlightBackground": "#59b8b377",
         "editor.hoverHighlightBackground": "#373941",
-        "editor.lineHighlightBackground": "#2e323d",
-        "editor.lineHighlightBorder": "#2e323d",
+        "editor.lineHighlightBackground": "#0B0D14",
+        "editor.lineHighlightBorder": "#0B0D14",
         "editorLink.activeForeground": "#3B79C7",
         "editor.rangeHighlightBackground": "#372F3C",
         "editorWhitespace.foreground": "#3F3544",
@@ -134,8 +134,9 @@
         "statusBarItem.prominentHoverBackground": "#00e8c5cc",
 
         "titleBar.activeBackground": "#0F111A",
+        "titleBar.inactiveBackground": "#0F111A",
 
-        "notification.background": "#2d313b",
+        "notification.background": "#131622",
         "notification.buttonBackground": "#00e8c5cc",
         "notification.buttonHoverBackground": "#07d4b5b0",
         "notification.infoBackground": "#00b0ff",
@@ -197,7 +198,7 @@
                 "meta.structure.dictionary.json support.type.property-name"
             ],
             "settings": {
-                "foreground": "#00e8c6"
+                "foreground": "#87D3F8"
             }
         },
         {
@@ -241,7 +242,7 @@
 
             ],
             "settings": {
-                "foreground": "#FFE66D"
+                "foreground": "#F2F27A"
             }
         },
         {
@@ -292,7 +293,7 @@
                 "markup.changed"
             ],
             "settings": {
-                "foreground": "#7cb7ff"
+                "foreground": "#3A75C4"
             }
         },
         {
@@ -310,7 +311,7 @@
                 "markup.deleted"
             ],
             "settings": {
-                "foreground": "#ee5d43"
+                "foreground": "#E25822"
             }
         },
         {
@@ -329,7 +330,7 @@
                 "text.html string"
             ],
             "settings": {
-                "foreground": "#96E072"
+                "foreground": "#14B37D"
             }
         },
         {
