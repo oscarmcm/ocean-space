@@ -1,7 +1,6 @@
 <h1 align="center">
-![ocena-space-logotype](images/icon.png)
+<img src="https://raw.githubusercontent.com/oscarmcm/ocean-space/master/images/icon.png" alt="ocean-space" width="100%">
 </h1>
----------
 
 <h4 align="center">
  🌊 Deep oceanic blue Visual Studio Code theme
