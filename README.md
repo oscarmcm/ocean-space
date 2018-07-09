@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/oscarmcm/ocean-space/master/images/icon.png" alt="ocean-space" width="100%">
+<img src="https://raw.githubusercontent.com/oscarmcm/ocean-space/master/images/icon.png" alt="ocean-space">
 </h1>
 
 <h4 align="center">
