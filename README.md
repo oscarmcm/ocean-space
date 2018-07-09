@@ -1,4 +1,6 @@
-# ![ocena-space-logotype](images/icon.png)
+![ocena-space-logotype](images/icon.png)
+
+---------
 
 <h4 align="center">
  🌊 Deep oceanic blue Visual Studio Code theme
