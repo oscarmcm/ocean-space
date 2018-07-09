@@ -1,5 +1,6 @@
+<h1 align="center">
 ![ocena-space-logotype](images/icon.png)
-
+</h1>
 ---------
 
 <h4 align="center">
