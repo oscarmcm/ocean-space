@@ -1,10 +1,10 @@
-![ocena-space-logotype](images/ocena-space-cover.png)
+# ![ocena-space-logotype](images/ocena-space-cover.png)
 
 <h4 align="center">
  🌊 Deep oceanic blue Visual Studio Code theme
 </h4>
 
-![ocena-space-screenshot](images/screen-editor.png)
+![ocena-space-screenshot](images/screen-editor2.png)
 
 > **NOTE**: This theme includes a variant with italic keywords that looks great with fonts like Operator Mono or Catograph Mono
 
