@@ -44,8 +44,8 @@
         "list.focusForeground": "#ffffff",
         "list.hoverBackground": "#3a404e",
         "list.hoverForeground": "#eee",
-        "list.inactiveSelectionBackground": "#0B0D14",
-        "list.inactiveSelectionForeground": "#00e8c6",
+        "list.inactiveSelectionBackground": "#2F3654",
+        "list.inactiveSelectionForeground": "#F3EFE0",
         // Activity Bar
         "activityBar.background": "#0F111A",
         "activityBar.dropBackground": "#3a404e",
