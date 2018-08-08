@@ -58,7 +58,7 @@
         "sideBarTitle.foreground": "#ffffff",
         "sideBar.foreground": "#F3EFE0",
         // Editor Groups & Tabs
-        "editorGroup.background": "#0F111A",
+        "editorGroup.emptyBackground": "#0F111A",
         "editorGroup.dropBackground": "#495061d7",
         "editorGroupHeader.tabsBackground": "#0F111A",
         "tab.border": "#0B0D14",
@@ -138,12 +138,14 @@
         "titleBar.activeBackground": "#0F111A",
         "titleBar.inactiveBackground": "#0F111A",
         // Notification Colors
-        "notification.background": "#131622",
-        "notification.buttonBackground": "#00e8c5cc",
-        "notification.buttonHoverBackground": "#07d4b5b0",
-        "notification.infoBackground": "#00b0ff",
-        "notification.warningBackground": "#FF9F2E",
-        "notification.errorBackground": "#FC644D",
+        "notificationCenter.border": "#2F3654",
+        "notificationCenterHeader.foreground": "#D5CED9",
+        "notificationCenterHeader.background": "#2F3654",
+        "notificationToast.border": "#2F3654",
+        "notifications.foreground": "#D5CED9",
+        "notifications.background": "#2F3654",
+        "notifications.border": "#2F3654",
+        "notificationLink.foreground": "#00b0ff",
         // Extensions
         "extensionButton.prominentBackground": "#07d4b6cc",
         "extensionButton.prominentHoverBackground": "#07d4b5b0",
@@ -159,12 +161,6 @@
         // Settings Editor Colors
     },
     "tokenColors": [
-        {
-            "settings": {
-                "foreground": "#D5CED9",
-                "background": "#23262E"
-            }
-        },
         {
             "name": "Comment color",
             "scope": [
