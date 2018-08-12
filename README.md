@@ -6,7 +6,7 @@
  🌊 Deep oceanic blue Visual Studio Code theme
 </h4>
 
-![ocena-space-screenshot](images/screen-editor2.png)
+![ocean-space-screenshot](images/screen-editor.png)
 
 > **NOTE**: This theme includes a variant with italic keywords that looks great with fonts like Operator Mono or Catograph Mono
 
