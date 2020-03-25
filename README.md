@@ -12,7 +12,13 @@
 
 ## Special thanks
 
-Thanks to [Klaus Sinani](https://github.com/klauscfhq) for his [hyperocean](https://github.com/klauscfhq/hyperocean) theme, which highly inspired this VS Code port.
+Thanks to [Klaus Sinani](https://github.com/klaussinani) for his [hyperocean](https://github.com/klaussinani/hyperocean) theme, which highly inspired this VS Code port.
+
+## Related
+
+- [hyperocean](https://github.com/klaussinani/hyperocean) - Hyper Terminal version
+- [itermocean](https://github.com/klaussinani/itermocean) - iTerm version
+- [oceandock](https://github.com/klaussinani/oceandock) - Plank dock version
 
 ## License
 
