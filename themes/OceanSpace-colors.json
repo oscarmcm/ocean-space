@@ -4,7 +4,7 @@
     "type": "dark",
     "colors": {
         // Contrast Colors
-        "contrastBorder": "#0B0D14",
+        "contrastBorder": "#014b40f1",
         // Base Colors
         "focusBorder": "#0B0D14",
         "foreground": "#D5CED9",
@@ -29,15 +29,15 @@
         "inputValidation.warningBorder": "#DE9237",
         // Scrollbar Control
         "scrollbar.shadow": "#0B0D14",
-        "scrollbarSlider.background": "#0B0D14B0",
-        "scrollbarSlider.activeBackground": "#0B0D14D0",
-        "scrollbarSlider.hoverBackground": "#0B0D14D0",
+        "scrollbarSlider.background": "#746F77",
+        "scrollbarSlider.activeBackground": "#00e8c5B0",
+        "scrollbarSlider.hoverBackground": "#07d4b6A0",
         // Badge
         "badge.background": "#00B0FF",
         // Progress Bar
         "progressBar.background": "#C668BA",
         // Lists and Trees
-        "list.activeSelectionBackground": "#0B0D14",
+        "list.activeSelectionBackground": "#117e6da0",
         "list.activeSelectionForeground": "#F3EFE0",
         "list.dropBackground": "#3a404e",
         "list.focusBackground": "#282b35",
@@ -48,7 +48,6 @@
         "list.warningForeground": "#DE9237",
         // Activity Bar
         "activityBar.background": "#0F111A",
-        "activityBar.dropBackground": "#3A404E",
         "activityBar.foreground": "#BAAFC0",
         "activityBar.border": "#0F111A",
         "activityBarBadge.background": "#00B0FF",
@@ -124,8 +123,8 @@
         "merge.incomingContentBackground": "#3B79C740",
         // Panel Colors
         "panel.background": "#0F111A",
-        "panel.border": "#0B0D14",
-        "panelTitle.activeBorder": "#0F111A",
+        "panel.border": "#014b40f1",
+        "panelTitle.activeBorder": "#00e8c5B0",
         "panelTitle.inactiveForeground": "#746F77",
         // Status Bar Colors
         "statusBar.background": "#0F111A",
