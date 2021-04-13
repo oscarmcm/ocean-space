@@ -4,7 +4,7 @@
     "type": "dark",
     "colors": {
         // Contrast Colors
-        "contrastBorder": "#0B0D14",
+        "contrastBorder": "#014b40f1",
         // Base Colors
         "focusBorder": "#0B0D14",
         "foreground": "#D5CED9",
@@ -123,8 +123,8 @@
         "merge.incomingContentBackground": "#3B79C740",
         // Panel Colors
         "panel.background": "#0F111A",
-        "panel.border": "#0B0D14",
-        "panelTitle.activeBorder": "#0F111A",
+        "panel.border": "#014b40f1",
+        "panelTitle.activeBorder": "#00e8c5B0",
         "panelTitle.inactiveForeground": "#746F77",
         // Status Bar Colors
         "statusBar.background": "#0F111A",
